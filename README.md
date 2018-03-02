@@ -21,3 +21,6 @@ Reuse/repurpose content from your previous drills for this site.
 ### Submission
 
 Put a deployed link to your site [here](#), and submit the URL to this repo.
+
+### Please check out the site from dev tools in browser. The site is styled differently on mobile devices
+
