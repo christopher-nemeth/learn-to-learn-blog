@@ -22,7 +22,6 @@ margin-bottom: 5.4vh;
 /*-------------------------------*/
 header {
     display: none;
-    /* background-pos */
 }
 
 main {
@@ -146,11 +145,6 @@ section ul li{
     margin-bottom: 2.5vh;
 }
 
-.about-list {
-    list-style: 
-}
-
-
 /*-------------------------------*/
 /*---------Footer Styles---------*/
 /*-------------------------------*/
@@ -248,7 +242,6 @@ footer a {
         flex-direction: column;
         padding-left: 5%;
     }
-
 
     footer{
         display: none;
